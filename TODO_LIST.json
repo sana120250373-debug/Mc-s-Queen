@@ -1,0 +1,12 @@
+{
+    "tasks": [
+        "get the tires ",
+        "increase the fuel ",
+        "change your speed"
+    ],
+    "statuses": [
+        false,
+        true,
+        false
+    ]
+}
